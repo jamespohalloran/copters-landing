@@ -2,20 +2,4 @@
 pages:
 - posts/test-page.md
 hide_body: false
-fields:
-- name: date
-  label: Date
-  type: field_group
-  hidden: false
-  default: {}
-- type: datetime
-  name: date_field
-  label: date field
-  description: this is for dates
-  config:
-    date_format: MM/DD/YYYY
-    time_format: h:mm A ZZ
-- type: boolean
-  label: yy
-  name: yy
-  description: pp
+fields: []
