@@ -1,0 +1,4 @@
+baseURL = "http://copters.io"
+languageCode = "en-us"
+title = "copters.io"
+theme = "ananke"
