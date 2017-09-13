@@ -8,3 +8,10 @@ fields:
   type: field_group
   hidden: false
   default: {}
+- type: datetime
+  name: date_field
+  label: date field
+  description: this is for dates
+  config:
+    date_format: MM/DD/YYYY
+    time_format: h:mm A ZZ
