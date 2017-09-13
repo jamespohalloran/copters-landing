@@ -1,4 +1,6 @@
 ---
+pages:
+- posts/test-page.md
 hide_body: false
 fields:
 - name: date
