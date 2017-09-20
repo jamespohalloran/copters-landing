@@ -1,27 +1,21 @@
 baseURL = "http://copters.io"
+disqusShortname = "username"
 languageCode = "en-us"
-title = "Interested in copters.io?"
 theme = "minimal"
-disqusShortname = "username" # delete this to disable disqus comments
-
-[params]
-    author = "Calin Tataru"
-    description = "Contact <a href='mailto:james.ohalloran@mightypebble.com'>james.ohalloran@mightypebble.com</a> with your best offer"
-    githubUsername = "#"
-    accent = "red"
-    showBorder = true
-    backgroundColor = "black"
-    font = "Raleway" # should match the name on Google Fonts!
-    highlight = true
-    highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
-    css = ["css/project.css"]
-
-# Social icons to be shown on the right-hand side of the navigation bar
-# The "name" field should match the name of the icon to be used
-# The list of available icons can be found at http://fontawesome.io/icons/
-
+title = "Interested in copters.io?"
 [[menu.icon]]
-    url = "mailto:james.ohalloran@mightypebble.com"
-    name = "envelope-o"
-    weight = 1
+name = "envelope-o"
+url = "mailto:james.ohalloran@mightypebble.com"
+weight = 1
+[params]
+accent = "red"
+author = "Calin Tataru"
+backgroundcolor = "black"
+css = ["/css/project.css"]
+description = "Contact <a href='mailto:james.ohalloran@mightypebble.com'>james.ohalloran@mightypebble.com</a> with your best offer"
+font = "Raleway"
+githubusername = "#"
+highlight = true
+highlightlanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+highlightstyle = "solarized-dark"
+showborder = true
