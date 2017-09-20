@@ -1,0 +1,5 @@
+---
+pages:
+- posts/test-page.md
+hide_body: false
+fields: []
