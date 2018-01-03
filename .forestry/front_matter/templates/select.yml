@@ -1,3 +1,13 @@
 ---
 hide_body: false
-fields: []
+fields:
+- type: select
+  name: character-select-flat
+  config:
+    source:
+      type: datafiles
+      file: characters-flat-yml
+      path: John
+  label: character-select-flat
+  description: select a character
+  default: other_value
