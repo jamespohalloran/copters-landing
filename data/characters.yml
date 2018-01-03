@@ -1,0 +1,7 @@
+characters:
+   John:
+       name: John Appleseed
+       other_value: something else
+    Jane:
+       name: Jane Appleseed
+       other_value: something else
