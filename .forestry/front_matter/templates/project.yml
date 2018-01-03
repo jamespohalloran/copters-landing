@@ -1,3 +1,7 @@
 ---
 hide_body: false
-fields: []
+fields:
+- type: text
+  default: yo
+  label: yo
+  name: yo
