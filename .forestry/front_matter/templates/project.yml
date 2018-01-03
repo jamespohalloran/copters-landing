@@ -1,7 +1,6 @@
 ---
 hide_body: false
 fields:
-- type: text
-  default: yo
-  label: yo
-  name: yo
+- type: field_group
+  name: empty
+  label: empty
