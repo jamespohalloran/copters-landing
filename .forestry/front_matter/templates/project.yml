@@ -4,10 +4,4 @@ fields:
 - type: field_group
   name: empty
   label: empty
-- type: text
-  default: text fields
-  label: tf
-  name: tf
-- type: boolean
-  name: toogle
-  label: toogle
+  description: fkfekfekfkekfekfek
