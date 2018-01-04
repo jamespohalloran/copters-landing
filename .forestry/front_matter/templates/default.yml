@@ -9,3 +9,7 @@ fields:
   name: dwdw
   label: dwdw
   description: fefefe
+- type: field_group
+  name: blah
+  label: blah
+  description: fefefefe
