@@ -1,7 +1,15 @@
 ---
 hide_body: false
 fields:
+- type: field_group_list
+  name: repeatable
+  label: repeatable
+  description: fefefefe
 - type: field_group
-  label: fefe
-  name: fefefefefe
-  description: fefef
+  name: dwdw
+  label: dwdw
+  description: fefefe
+- type: field_group
+  name: blah
+  label: blah
+  description: fefefefe
