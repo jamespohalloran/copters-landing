@@ -13,3 +13,7 @@ fields:
   name: blah
   label: blah
   description: fefefefe
+- type: field_group
+  name: hmm_field_group
+  label: hmm field group
+  description: yup
