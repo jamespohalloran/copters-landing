@@ -4,7 +4,7 @@ fields:
 - type: field_group_list
   name: repeatable
   label: repeatable
-  description: heres my description
+  description: ''
 - type: field_group
   name: dwdw
   label: dwdw
