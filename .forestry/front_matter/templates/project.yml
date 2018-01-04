@@ -8,3 +8,6 @@ fields:
   default: text fields
   label: tf
   name: tf
+- type: boolean
+  name: toogle
+  label: toogle
