@@ -5,3 +5,7 @@ fields:
   name: repeatable
   label: repeatable
   description: heres my description
+- type: field_group
+  name: dwdw
+  label: dwdw
+  description: fefefe
