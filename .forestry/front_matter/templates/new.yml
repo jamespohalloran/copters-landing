@@ -13,3 +13,8 @@ fields:
   name: text_area
   label: text area
   description: fe
+- type: textarea
+  label: '123'
+  name: '1233'
+  description: f
+  default: tyuiooo
