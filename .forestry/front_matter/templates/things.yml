@@ -1,0 +1,18 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: shoe
+  label: shoe
+  description: description for a shoe
+- type: textarea
+  name: fefefefefe
+  label: fefe
+- type: boolean
+  name: fefefefe
+  label: fe
+  description: fefefe
+- type: tag_list
+  name: fefefefe
+  label: fefe
+- type: text
