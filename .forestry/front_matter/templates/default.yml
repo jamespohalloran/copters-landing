@@ -17,3 +17,6 @@ fields:
   name: hmm_field_group
   label: hmm field group
   description: yup
+- type: field_group
+  label: jgugurgeghu
+  name: jgugurgeghu
