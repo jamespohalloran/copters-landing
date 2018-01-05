@@ -11,3 +11,6 @@ fields:
 - type: boolean
   name: toogle
   label: toogle
+- type: field_group_list
+  name: repeat-proj
+  label: repeat-proj
