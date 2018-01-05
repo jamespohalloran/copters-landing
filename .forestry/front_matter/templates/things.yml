@@ -23,3 +23,4 @@ fields:
 - type: field_group
   name: field_group
   label: field group
+  description: hmmm
