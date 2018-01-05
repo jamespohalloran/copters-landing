@@ -16,3 +16,6 @@ fields:
   name: fefefefe
   label: fefe
 - type: text
+  label: textfield
+  name: textfield
+  description: my description
