@@ -1,0 +1,15 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: errerr
+  label: err
+  description: efefefe
+- type: textarea
+  description: fefef
+  label: fefefe
+  name: fefefe
+- type: textarea
+  name: text_area
+  label: text area
+  description: fe
