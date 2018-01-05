@@ -5,7 +5,3 @@ fields:
   name: repeat
   label: repeat
   description: blah
-  fields:
-  - type: text
-    name: tem
-    label: tem
