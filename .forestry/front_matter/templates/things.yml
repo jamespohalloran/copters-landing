@@ -1,0 +1,25 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: shoe
+  label: shoe
+  description: description for a shoe
+- type: textarea
+  name: fefefefefe
+  label: fefe
+  description: kdkfkefekfe
+- type: boolean
+  name: fefefefe
+  label: fe
+  description: fefefe
+- type: tag_list
+  name: fefefefe
+  label: fefe
+- type: text
+  label: textfield
+  name: textfield
+  description: my description
+- type: field_group
+  name: field_group
+  label: field group

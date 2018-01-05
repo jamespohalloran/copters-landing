@@ -1,12 +1,13 @@
 ---
 hide_body: false
 fields:
-- type: text
-  default: yas
-  label: my label
-  name: my_label
-  description: heres a default
-- type: field_group
-  name: my_field_group
-  label: my field group
-  description: default
+- type: field_group_list
+  name: repeat
+  label: repeat
+  description: blah
+- type: field_group_list
+  label: '123'
+  name: '123'
+- type: field_group_list
+  name: yaaa
+  label: yaaa

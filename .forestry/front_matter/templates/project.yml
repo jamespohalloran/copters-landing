@@ -4,4 +4,13 @@ fields:
 - type: field_group
   name: empty
   label: empty
-  description: fkfekfekfkekfekfek
+- type: text
+  default: text fields
+  label: tf
+  name: tf
+- type: boolean
+  name: toogle
+  label: toogle
+- type: field_group_list
+  name: repeat-proj
+  label: repeat-proj

@@ -1,0 +1,22 @@
+---
+pages:
+- posts/intro2.md
+hide_body: false
+fields:
+- type: text
+  name: errerr
+  label: err
+  description: efefefe
+- type: textarea
+  description: fefef
+  label: fefefe
+  name: fefefe
+- type: textarea
+  name: text_area
+  label: text area
+  description: fe
+- type: textarea
+  label: '123'
+  name: '1233'
+  description: f
+  default: ''
