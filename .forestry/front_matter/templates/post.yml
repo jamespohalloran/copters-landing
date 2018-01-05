@@ -8,3 +8,6 @@ fields:
 - type: field_group_list
   label: '123'
   name: '123'
+- type: field_group_list
+  name: yaaa
+  label: yaaa
