@@ -20,3 +20,7 @@ fields:
 - type: field_group
   label: jgugurgeghu
   name: jgugurgeghu
+- type: text
+  name: test
+  label: test
+  description: put your test value in here
