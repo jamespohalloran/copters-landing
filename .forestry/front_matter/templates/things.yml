@@ -24,3 +24,6 @@ fields:
   name: field_group
   label: field group
   description: hmmm
+  fields:
+  - type: text
+  - type: textarea
