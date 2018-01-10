@@ -1,0 +1,8 @@
+---
+hide_body: false
+fields:
+- type: text
+  default: my default
+  label: thingy
+  name: thingy
+  description: here's a thingy
