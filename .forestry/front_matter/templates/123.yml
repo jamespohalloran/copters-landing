@@ -1,0 +1,10 @@
+---
+hide_body: false
+fields:
+- type: select
+  config:
+    source:
+      type: pages
+  label: '123'
+  name: '123'
+  default: posts/ijni.md
