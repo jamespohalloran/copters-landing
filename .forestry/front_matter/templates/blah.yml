@@ -1,0 +1,9 @@
+---
+hide_body: false
+fields:
+- type: select
+  name: egerg
+  config:
+    source:
+      type: datafiles
+  label: EGERG
