@@ -1,0 +1,11 @@
+---
+hide_body: false
+fields:
+- type: select
+  config:
+    source:
+      type: pages
+  label: template
+  name: template
+  default: posts/test-post.md
+  description: select pages
