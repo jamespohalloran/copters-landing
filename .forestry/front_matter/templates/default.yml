@@ -1,4 +1,6 @@
 ---
+pages:
+- posts/jjj.md
 hide_body: false
 fields:
 - type: field_group_list
