@@ -9,3 +9,18 @@ fields:
   name: template
   default: posts/test-post.md
   description: select pages
+- type: list
+  label: list
+  name: list
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - dwf
+  default:
+  - posts/jjj.md
+  - posts/intro2.md
+  - posts/intro.md
+  - posts/test-post.md
+  - posts/test-post-1.md
