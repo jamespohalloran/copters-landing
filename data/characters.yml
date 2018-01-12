@@ -1,5 +1,6 @@
+---
 characters:
-  John:
+  John: ''
   Jane:
-    name: 'Jane Appleseed'
-    other_value: 'something else'
+    name: Jane Appleseed
+    other_value: something else
