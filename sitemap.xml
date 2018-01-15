@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://copters.io/posts/test-page2/</loc>
+    <lastmod>2018-01-15T09:37:59+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://copters.io/posts/intro/</loc>
     <lastmod>2017-09-13T00:30:57-03:00</lastmod>
   </url>
@@ -14,13 +19,13 @@
   
   <url>
     <loc>http://copters.io/</loc>
-    <lastmod>2017-09-13T00:30:57-03:00</lastmod>
+    <lastmod>2018-01-15T09:37:59+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://copters.io/posts/</loc>
-    <lastmod>2017-09-13T00:30:57-03:00</lastmod>
+    <lastmod>2018-01-15T09:37:59+00:00</lastmod>
     <priority>0</priority>
   </url>
   
