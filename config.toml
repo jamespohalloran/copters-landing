@@ -14,7 +14,7 @@ weight = 1
 [params]
 accent = "red"
 author = "Calin Tataru"
-backgroundcolor = "black"
+backgroundcolor = "blue"
 css = ["/css/project.css"]
 description = "Contact <a href='mailto:james.ohalloran@mightypebble.com'>james.ohalloran@mightypebble.com</a> with your best offer"
 font = "Raleway"

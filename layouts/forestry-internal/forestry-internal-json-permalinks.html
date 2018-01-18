@@ -1,0 +1,9 @@
+[
+  {{- $len := len .Site.AllPages -}}
+  {{- range $i, $value := .Site.AllPages -}}
+  {
+    "file": {{ jsonify $value.Path }},
+    "rel_permalink": {{ jsonify $value.RelPermalink }}
+  }{{- if not (eq $len ($i | add 1)) -}},{{- end -}}
+  {{- end -}}
+]
