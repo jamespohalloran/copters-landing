@@ -11,3 +11,6 @@ fields:
 - type: field_group_list
   name: yaaa
   label: yaaa
+- type: text
+  name: title
+  label: Title
