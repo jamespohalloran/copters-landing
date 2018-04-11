@@ -3,4 +3,13 @@ pages:
 - posts/test-post-1.md
 - posts/test-page.md
 hide_body: false
-fields: []
+fields:
+- type: textarea
+  default: blah
+  label: '123'
+  name: '123'
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+      flavour: CommonMark
