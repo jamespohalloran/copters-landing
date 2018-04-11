@@ -11,3 +11,13 @@ fields:
   type: tag_list
   hidden: false
   default: []
+- type: matrix
+  template_types:
+  - project
+  - post
+  - default
+  - icon
+  - project
+  - icon
+  label: my matrix group
+  name: my_matrix_group
