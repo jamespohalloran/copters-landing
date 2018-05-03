@@ -3,6 +3,7 @@ pages:
 - posts/test-post-1.md
 - posts/test-page.md
 hide_body: false
+is_partial: false
 fields:
 - type: textarea
   default: blah
@@ -13,3 +14,6 @@ fields:
     schema:
       format: markdown
       flavour: CommonMark
+- type: datetime
+  name: my_date
+  label: my date

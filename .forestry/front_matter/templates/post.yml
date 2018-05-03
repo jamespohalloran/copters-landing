@@ -1,5 +1,6 @@
 ---
 hide_body: false
+is_partial: false
 fields:
 - name: date
   label: Date
@@ -11,7 +12,7 @@ fields:
   type: tag_list
   hidden: false
   default: []
-- type: matrix
+- type: blocks
   template_types:
   - project
   - post
