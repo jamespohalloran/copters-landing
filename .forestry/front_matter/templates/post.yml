@@ -25,3 +25,6 @@ fields:
 - type: field_group_list
   name: repeatable
   label: repeatable
+- type: datetime
+  name: few_f
+  label: few f
