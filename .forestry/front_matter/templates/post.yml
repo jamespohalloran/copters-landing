@@ -28,3 +28,7 @@ fields:
 - type: datetime
   name: few_f
   label: few f
+- type: datetime
+  name: 1e23
+  label: 1e23
+  default: 2018-05-03 03:00:00 +0000
