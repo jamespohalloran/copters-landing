@@ -1,7 +1,4 @@
 ---
-pages:
-- posts/test-post-1.md
-- posts/test-page.md
 hide_body: false
 is_partial: false
 fields:
@@ -20,3 +17,6 @@ fields:
 - type: blocks
   name: my_blocks
   label: my blocks
+pages:
+- posts/test-page.md
+- posts/test-post-1.md

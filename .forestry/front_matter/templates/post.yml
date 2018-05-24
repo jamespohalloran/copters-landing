@@ -32,3 +32,5 @@ fields:
   name: 1e23
   label: 1e23
   default: 2018-05-03 03:00:00 +0000
+- type: 
+  default: rgb(255, 128, 128)
