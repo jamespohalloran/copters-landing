@@ -44,3 +44,9 @@ fields:
     color_format: RGB
   label: color pick
   default: rgb(102, 43, 43)
+- type: 
+  name: color_required
+  config:
+    color_format: Hex
+    required: true
+  label: color required
