@@ -47,6 +47,6 @@ fields:
 - type: 
   name: color_required
   config:
-    color_format: Hex
+    color_format: RGB
     required: true
   label: color required
