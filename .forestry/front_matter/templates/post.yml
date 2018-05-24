@@ -35,6 +35,6 @@ fields:
 - type: 
   default: rgb(255, 128, 128)
   config:
-    color_format: Hex
+    color_format: RGB
   label: c
   name: c
