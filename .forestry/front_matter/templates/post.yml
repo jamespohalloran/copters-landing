@@ -41,7 +41,7 @@ fields:
 - type: 
   name: color_pick
   config:
-    color_format: RGB
+    color_format: Hex
   label: color pick
   default: rgb(102, 43, 43)
 - type: 
