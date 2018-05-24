@@ -35,6 +35,6 @@ fields:
 - type: 
   default: "#BEFFBA"
   config:
-    color_format: Hex
+    color_format: RGB
   label: c
   name: c
