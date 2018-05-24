@@ -38,3 +38,9 @@ fields:
     color_format: Hex
   label: c
   name: c
+- type: 
+  name: color_pick
+  config:
+    color_format: RGB
+  label: color pick
+  default: rgb(102, 43, 43)
