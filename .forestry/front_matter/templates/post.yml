@@ -48,6 +48,8 @@ fields:
   name: color_pick
   config:
     color_format: Hex
+    presets:
+    - red
   label: color pick
   default: rgb(102, 43, 43)
 - type: color
