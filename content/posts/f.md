@@ -7,11 +7,14 @@ date = "2018-05-25T18:34:42+00:00"
 draft = true
 fegre = "rgb(184, 88, 182)"
 few_f = ""
-my_matrix_group = ""
 repeatable = []
 tags = []
 title = "f"
 [datef_f_fe]
+[[my_matrix_group]]
+tags = []
+template = "project"
+weight = ""
 
 +++
- ew
+\~\~text\~\~
