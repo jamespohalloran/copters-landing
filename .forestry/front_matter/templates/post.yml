@@ -64,5 +64,8 @@ fields:
   config:
     color_format: Hex
     required: true
+    presets:
+    - "#dddddd"
+    - black
   label: fe
   default: rgb(184, 88, 182)
