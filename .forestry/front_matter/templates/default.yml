@@ -18,5 +18,5 @@ fields:
   name: my_blocks
   label: my blocks
 pages:
-- posts/test-post-1.md
 - posts/test-page.md
+- posts/test-post-1.md
