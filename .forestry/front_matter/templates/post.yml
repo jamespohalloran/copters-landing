@@ -63,3 +63,4 @@ fields:
     - black
   label: fe
   default: rgb(184, 88, 182)
+  hidden: true
