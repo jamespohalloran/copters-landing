@@ -32,29 +32,29 @@ fields:
   name: 1e23
   label: 1e23
   default: 2018-05-03 03:00:00 +0000
-- type: 
+- type: color
   default: 
   config:
     color_format: Hex
   label: c
   name: c
-- type: 
+- type: color
   name: color_pick
   config:
     color_format: Hex
   label: color pick
   default: rgb(102, 43, 43)
-- type: 
+- type: color
   name: color_required
   config:
     color_format: RGB
     required: true
   label: color required
   default: 
-- type: 
+- type: color
   name: fegre
   config:
-    color_format: Hex
+    color_format: RGB
     required: true
   label: fe
-  default: "#A93333"
+  default: "#A933A6"
