@@ -25,6 +25,12 @@ fields:
 - type: field_group_list
   name: repeatable
   label: repeatable
+  fields:
+  - type: color
+    name: color_nested
+    config:
+      color_format: Hex
+    label: color nested
 - type: datetime
   name: few_f
   label: few f
