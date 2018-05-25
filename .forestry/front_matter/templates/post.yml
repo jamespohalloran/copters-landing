@@ -50,3 +50,11 @@ fields:
     color_format: RGB
     required: true
   label: color required
+  default: 
+- type: 
+  name: fegre
+  config:
+    color_format: Hex
+    required: true
+  label: fe
+  default: "#A93333"
