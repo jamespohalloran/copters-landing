@@ -13,7 +13,8 @@ fields:
   hidden: false
   default: []
 - type: blocks
-  template_types: []
+  template_types:
+  - project
   label: my matrix group!
   name: my_matrix_group
 - type: field_group_list
