@@ -17,3 +17,5 @@ fields:
 - type: blocks
   name: my_blocks
   label: my blocks
+pages:
+- content/posts/hetrwhtrwhtrwht.md
