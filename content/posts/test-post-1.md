@@ -5,6 +5,7 @@ draft = true
 my_blocks = ""
 my_date = ""
 title = "test post"
+type = "posts"
 
 +++
-gre
+gre fe
