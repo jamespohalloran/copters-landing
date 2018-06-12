@@ -7,6 +7,6 @@ yaaa: []
 menu:
   icon2:
     name: gerg
-    weight: 1
+    weight: 2
 
 ---
