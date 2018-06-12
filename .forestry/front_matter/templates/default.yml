@@ -17,6 +17,3 @@ fields:
 - type: blocks
   name: my_blocks
   label: my blocks
-pages:
-- posts/test-page.md
-- posts/test-post-1.md
