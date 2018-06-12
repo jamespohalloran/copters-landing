@@ -10,7 +10,7 @@ title = "asd"
 type = "posts"
 [datef_f_fe]
 [menu.icon]
-name = "asd menu"
-weight = 1
+name = "asd menu!"
+weight = 3
 
 +++
