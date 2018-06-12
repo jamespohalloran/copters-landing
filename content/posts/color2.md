@@ -3,7 +3,7 @@
 c = ""
 color_pick = ""
 color_required = "rgb(214, 163, 163)"
-date = "2018-05-24T19:04:30+00:00"
+date = "2018-05-24T19:04:30Z"
 draft = true
 fegre = "#C35454"
 few_f = ""
@@ -11,7 +11,11 @@ my_matrix_group = []
 repeatable = []
 tags = []
 title = "color2"
+type = "posts"
 [datef_f_fe]
+[menu.icon]
+name = "color2 internal test"
+weight = 1
 
 +++
 thf wfewfeff f e 
