@@ -7,10 +7,6 @@ title = "Interested in copters.io?"
 name = "envelope-o"
 url = "mailto:james.ohalloran@mightypebble.com"
 weight = 1
-[[menu.icon]]
-name = "test"
-url = "/"
-weight = 1
 [params]
 accent = "red"
 author = "Calin Tataru"
