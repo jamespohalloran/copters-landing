@@ -14,8 +14,8 @@ title = "color2"
 type = "posts"
 [datef_f_fe]
 [menu.icon]
-name = "color2 internal test"
-weight = 1
+name = "color2 internal test!"
+weight = 2
 
 +++
 thf wfewfeff f e 
