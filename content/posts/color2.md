@@ -13,6 +13,9 @@ tags = []
 title = "color2"
 type = "posts"
 [datef_f_fe]
+[menu.icon]
+name = "cefwfgre"
+weight = 1
 
 +++
 thf wfewfeff f e 
