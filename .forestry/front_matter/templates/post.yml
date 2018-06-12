@@ -32,7 +32,9 @@ fields:
 - type: datetime
   name: 1e23
   label: 1e23
-  default: 2018-05-03 00:00:00 -0300
+  default: ''
+  config:
+    required: true
 - type: color
   default: 
   config:
