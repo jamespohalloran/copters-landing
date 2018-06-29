@@ -28,3 +28,12 @@ fields:
   fields:
   - type: text
   - type: textarea
+- type: field_group_list
+  name: repeat
+  label: repeat
+  fields:
+  - type: text
+    name: '123'
+    label: '123'
+    config:
+      required: true

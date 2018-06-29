@@ -4,8 +4,13 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
-  content/posts:
-    default_front_matter_template: post
+- path: content/posts
+  label: Posts
+  create: all
+  default_front_matter_template: post
+- path: content
+  label: Pages
+  create: all
 upload_dir: ''
 public_path: "/uploads"
 front_matter_path: ''
