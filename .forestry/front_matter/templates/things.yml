@@ -37,3 +37,5 @@ fields:
     label: '123'
     config:
       required: true
+pages:
+- content/posts/thiings.md
